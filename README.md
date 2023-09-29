@@ -11,7 +11,7 @@
 ## Description 
 This project required me to create JavaScript code that would provide users with the ability to generate a randomized code, with a set of parameters that must be adhered to in order to successfully do so. 
 
-[Visit the Deployed Site]() 
+[Visit the Deployed Site](https://armand57araujo.github.io/the-hush-hush-secret-password-generator/) 
 
 ![HushHush.png](/HushHush.png)
 
